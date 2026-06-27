@@ -1,0 +1,11 @@
+experiment:
+  name: pinn_qi_radar_baseline_bounds
+  seed: 42
+  n_samples: 50000
+quantum_illumination:
+  fixed_signal_photon_number_ns: 0.02
+  fixed_mode_pairs_m: 1000000
+outputs:
+  results_dir: results
+  tables_dir: tables
+  figures_dir: figures

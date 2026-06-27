@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/pinn_qi_radar/__init__.py
+src/pinn_qi_radar/dataset.py
+src/pinn_qi_radar/pinn_model.py
+src/pinn_qi_radar/plasma_channel.py
+src/pinn_qi_radar/qi_bounds.py
+src/pinn_qi_radar/train.py
+src/pinn_qi_radar.egg-info/PKG-INFO
+src/pinn_qi_radar.egg-info/SOURCES.txt
+src/pinn_qi_radar.egg-info/dependency_links.txt
+src/pinn_qi_radar.egg-info/requires.txt
+src/pinn_qi_radar.egg-info/top_level.txt
+tests/test_physics_bounds.py
+tests/test_pinn_model.py
